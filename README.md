@@ -22,6 +22,7 @@ git clone https://github.com/Ake-Gauffin/1337.git
 cd 1337
 chmod +x 1337
 sudo cp 1337 /usr/local/bin/
+cd
 ```
 
 **Linux (apt)**
@@ -32,6 +33,7 @@ git clone https://github.com/Ake-Gauffin/1337.git
 cd 1337
 chmod +x 1337
 sudo cp 1337 /usr/local/bin/
+cd
 ```
 
 ## Usage
