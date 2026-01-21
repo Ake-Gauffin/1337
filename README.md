@@ -1,8 +1,7 @@
+
 # 1337
+
 The command that shall not be passed. For the culture.
-
-
-# 1337
 
 A tiny Linux command that prints **ELITE** in ASCII-art.
 
