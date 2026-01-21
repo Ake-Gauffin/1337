@@ -1,0 +1,10 @@
+#!/bin/bash
+# 1337 - prints ELITE in rainbow ASCII-art with typewriter animation
+
+# Check if figlet is installed
+if ! command -v toilet &> /dev/null; then
+    echo "toilet could not be found. Please install it."
+    exit 1
+fi
+
+toilet ELITE -f bigmono9 --metal
