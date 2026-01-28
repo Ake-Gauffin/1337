@@ -9,12 +9,10 @@ A tiny Linux command that prints **ELITE** in ASCII-art.
 # Requirements
 - `toilet`
 
----
 
 ## Install
 
 **MacOS (Homebrew)**
-
 
 ```
 brew install toilet 
